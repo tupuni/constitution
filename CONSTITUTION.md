@@ -23,7 +23,7 @@ Members are entitled to the following:
     1. The speakers will be elected biennially at the CAA France General Meeting.
     1. One or more of the speakers of CAA France will be designated, by the speakers, as the representative of the national chapter to CAA international (ex-officio member of the steering committee of the international CAA; https://caa-international.org/constitution/ [article 4.iv]);
     1. Speakers may resign by sending notice to the remaining speakers or to all members of CAA France through the current mailing list.
-    1. In case of a resignation, the vice-speaker deputizes until new elections are hold.
+    1. In case of a resignation, the vice-speaker deputizes until new elections are held.
 
 1. The task of the speakers is twofold:
     1. To ensure, to the best of their ability, that an annual national conference does take place. This conference can be part of :
